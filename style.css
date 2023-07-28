@@ -1,0 +1,62 @@
+html {
+    background-image: url(file:///C:/Users/joaozinho/Desktop/moreofthesame/img/3493304.gif);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: static;
+}
+.main1{
+    opacity: 1;
+}
+.textomain{
+    color: rgb(0, 0, 0);
+    opacity: 1;
+}
+.princial{
+    text-align: center;
+    align-items: center;
+    flex: auto;
+    size: 100px;
+    background-image: linear-gradient(rgb(103, 232, 255), rgb(9, 255, 91));
+    padding: 5px;
+    margin: 200px;
+    opacity: 1;
+}
+
+.links{
+    text-align: center;
+    justify-content: baseline;
+}
+
+.twit{
+    text-decoration: none;
+    color: rgb(163, 255, 167);
+    padding: 3px;
+    
+}
+.insta{
+    text-decoration: none;
+    color: rgb(163, 255, 167);
+    padding: 3px;
+}
+
+.soundcloud{
+    text-decoration: none;
+    color: rgb(163, 255, 167);
+    padding: 3px;
+}
+.musica{
+    margin: 10px;
+    position: relative;
+    top: 0px;
+}
+
+
+
+.twit:hover{
+    color: azure;
+}
+.insta:hover{
+    color: azure;
+}
+.soundcloud:hover{
+    color: azure;
+}
